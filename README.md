@@ -1,8 +1,13 @@
-# KDE Silver Gate Installation Guide
+# KDE Silver Gate
+![Cover](Screenshots/Cover.png)
+
+## Screenshots
+---
 
 ![Screenshot 1](Screenshots/Light_Main.png)
 ![Screenshot 2](Screenshots/2_Dark_Main.png)
 
+---
 
 This guide explains how to install and configure the **KDE Silver Gate** theme for KDE Plasma.
 
