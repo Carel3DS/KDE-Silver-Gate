@@ -316,4 +316,11 @@ Enjoy your new Silver Gate desktop experience!
 
 ---
 
+# Credits:
+- vinceliuice: Truly an incredible artist who's done a lot to make this theme possible - https://github.com/vinceliuice/
+- zayronXIO: Another incredible artist, go check out his other stuff - https://store.kde.org/u/zayronXIO
+- If anyone is missing here, please let me know and I'll add them in a hearbeat!
+
+---
+
 *AI Disclaimer: Artificial Intelligence was used in order to translate this guide and make it clearer. English isn't my first language, so please excuse me!*
