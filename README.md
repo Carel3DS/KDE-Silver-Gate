@@ -297,14 +297,13 @@ To add applications to the dock:
 # Final Notes
 
 ![Screenshot 3](Screenshots/3_Light_Browser.png)
+![Screenshot 4](Screenshots/4_Dark_Browser.png)
 
 Some transparency, blur, and panel effects may not fully initialize until you log out and back in. If visual elements appear incorrect after installation, restart your Plasma session before troubleshooting.
 
 Silver Gate is provided **as-is**, without warranty or guarantee of compatibility across all KDE Plasma versions, distributions, hardware configurations, or third-party customization setups. While every effort has been made to ensure a consistent experience, individual results may vary depending on your system configuration.
 
 I'm unfortunately very busy and can't dedicate enough time to create or maintain an automated installation script for Silver Gate. The theme is therefore distributed as a manual installation package, and users are expected to follow the setup instructions provided in this guide. Sorry, everyone! :(
-
-![Screenshot 4](Screenshots/4_Dark_Browser.png)
 
 Community contributions are always welcome. If anyone would like to develop and maintain an installation script or package for Silver Gate, feel free to do so and share it with the community.
 
