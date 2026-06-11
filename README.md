@@ -302,4 +302,4 @@ Enjoy your new Silver Gate desktop experience!
 
 ---
 
-*AI Disclaimer: Artificial Intelligence was used in order to translate this guide and make it clearer. English isn't my first language, so please excuse me!*
+*AI Disclaimer: Artificial Intelligence was used in order to translate this guide and make it clearer. English isn't my first language, so please excuse me!*# KDE-Silver-Gate
