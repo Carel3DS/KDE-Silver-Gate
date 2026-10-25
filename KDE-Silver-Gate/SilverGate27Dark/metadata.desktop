@@ -1,0 +1,17 @@
+[AdaptiveTransparency]
+enabled=true
+
+[ContrastEffect]
+contrast=1.0
+enabled=true
+intensity=0.40
+saturation=1.4
+
+[Desktop Entry]
+Comment=Silver Gate, but Dark
+Name=Silver Gate 27 Dark
+X-KDE-PluginInfo-Author=Dharam Dhurandhar
+X-KDE-PluginInfo-Category=Plasma Theme
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPL3.0
+X-KDE-PluginInfo-Version=1.0.5
